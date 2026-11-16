@@ -1,0 +1,14 @@
+# Ambiente e cache do Python
+.venv/
+__pycache__/
+*.pyc
+
+# Material do professor e artigos de referencia (direitos autorais)
+Arvore_de_Steiner_Trabalho_Pratico.pdf
+fontes/
+*.pdf
+
+# Relatorio e apresentacao sao entregues separadamente
+*.docx
+*.pptx
+~$*
